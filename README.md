@@ -1,7 +1,4 @@
 ### Hi there 👋
-<div>
-  github-readme-stats.vercel.app/api/top-langs/?username=ddt8888&langs_count=8
-<div>
 <!--
 **ddt8888/ddt8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
